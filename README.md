@@ -1,4 +1,4 @@
-# Double-Sided Kettle
+# Double-Sided Tea Kettle
 ## CAD model of a double-sided kettle, allowing it to cook tea through steam (convection) rather than utilizing a hot surface (conduction). Model is tailored towards an additive manufacturing process. FreeCAD was the choice of software for this project.
 
 ### Motivation
@@ -21,3 +21,8 @@ Another change to this design was the addition of supports, an incredibly useful
 <img width="892" height="629" alt="Screenshot 2026-07-01 102041" src="https://github.com/user-attachments/assets/a8e2d7e8-a890-4bd7-b480-bcee79b93186" />
 <img width="786" height="456" alt="Screenshot 2026-06-30 195510" src="https://github.com/user-attachments/assets/91602b0f-c6b6-4752-8ed8-dbf51f81c98d" />
 
+I also 3D printed a couple of these parts for proof of concept.
+
+
+### Limitations
+Although my design was sufficient enough to support additive manufacturing, creating a stainless steel tea kettle fundamentally requires a subtractive manufacturing process like CNC machining. In the future, I plan on creating a similar version of this kettle that would allow for a subtractive process using stainless steel, making the kettle a usable product.
