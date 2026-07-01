@@ -12,10 +12,12 @@ This was my first version of the kettle. When I was first creating this model, I
 ### Final/Improved CAD Model
 <img width="364" height="395" alt="image" src="https://github.com/user-attachments/assets/be332fc9-00b6-4e0e-839c-bf9f54c28999" />
 
-This was my final version. I split the model into 6 parts: water body, water spout, tea body, tea spout, lid and handle (note: this version has a handle attached to the side of the water body, unlike that of the initial design which has a handle over the lid). By splitting the water/tea body and spout into 2 separate parts, manufacturing became easier as the printing path became realistic.
+This was my final version. I split the model into 6 parts: water body, water spout, tea body, tea spout, lid and handle (note: this version has a handle attached to the side of the water body, unlike that of the initial design which has a handle over the lid). By splitting the water/tea body and spout into 2 separate parts, manufacturing became easier as the printing path became realistic. (Note that, in the model, the handle is displaced slightly in order to show the two holes in the water body for the handle)
 
-Another change to this design was the addition of supports, an incredibly useful feature for an additive manufacturing process like 3D printing. Examples of supports are below (orange is the main print, green is the support)
+Another change to this design was the addition of supports, an incredibly useful feature for an additive manufacturing process like 3D printing. Examples of supports are below (orange is the main print, green is the support):
+
 <img width="895" height="626" alt="Screenshot 2026-07-01 150159" src="https://github.com/user-attachments/assets/8d9c8470-61ed-4072-8cef-16e4c073d767" />
 <img width="843" height="425" alt="Screenshot 2026-07-01 102334" src="https://github.com/user-attachments/assets/7b79f3ff-2b23-4073-8643-57f3d5940065" />
 <img width="892" height="629" alt="Screenshot 2026-07-01 102041" src="https://github.com/user-attachments/assets/a8e2d7e8-a890-4bd7-b480-bcee79b93186" />
 <img width="786" height="456" alt="Screenshot 2026-06-30 195510" src="https://github.com/user-attachments/assets/91602b0f-c6b6-4752-8ed8-dbf51f81c98d" />
+
