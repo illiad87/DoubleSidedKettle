@@ -21,7 +21,10 @@ Another change to this design was the addition of supports, an incredibly useful
 <img width="892" height="629" alt="Screenshot 2026-07-01 102041" src="https://github.com/user-attachments/assets/a8e2d7e8-a890-4bd7-b480-bcee79b93186" />
 <img width="786" height="456" alt="Screenshot 2026-06-30 195510" src="https://github.com/user-attachments/assets/91602b0f-c6b6-4752-8ed8-dbf51f81c98d" />
 
-I also 3D printed a couple of these parts for proof of concept.
+I also 3D printed a couple of these parts for proof of concept:
+
+<img width="4032" height="3024" alt="IMG_3832" src="https://github.com/user-attachments/assets/d81e2559-714c-41b3-b4a2-fbaa3c755043" />
+<img width="3520" height="1980" alt="IMG_3807" src="https://github.com/user-attachments/assets/f60de4a1-b897-41db-9910-9a59ba2a2b37" />
 
 
 ### Limitations
